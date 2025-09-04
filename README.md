@@ -6,12 +6,12 @@
 
 ---
 
-## 👀 What is TruthMiner?
+>## 👀 What is TruthMiner?
 
-In today’s world, **misinformation travels faster than facts**.  
-TruthMiner is an AI-powered system that **detects fake news headlines** using both **classic Machine Learning** and **modern Transformer models (BERT)**.  
+>In today’s world, **misinformation travels faster than facts**.  
+>TruthMiner is an AI-powered system that **detects fake news headlines** using both **classic Machine Learning** and **modern Transformer models (BERT)**.  
 
-Think of it as your **digital truth detector** — analyzing headlines and predicting whether they’re **real** or **fake**.  
+>Think of it as your **digital truth detector** — analyzing headlines and predicting whether they’re **real** or **fake**.  
 
 ---
 
