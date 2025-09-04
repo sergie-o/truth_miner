@@ -1,7 +1,7 @@
 # 📰 TruthMiner: Fake News Detection with NLP & Transformers
 
 <p align="center">
-  <img src="https://github.com/sergie-o/truth_miner/blob/main/truthminer.png" width="800"/>
+  <img src="https://github.com/sergie-o/truth_miner/blob/main/truthminer.png" width="900"/>
 </p>
 
 ---
