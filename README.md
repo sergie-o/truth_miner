@@ -121,3 +121,26 @@ source .venv/bin/activate   # macOS/Linux
 Install dependencies:
 ```
 pip install -r requirements.txt
+```
+
+
+Repo Structure:
+## 📂 Project Structure
+
+```bash
+truthminer/
+├── assets/                        # Images, banners, and figures for README
+│   └── truthminer_banner.png
+│
+├── dataset/                       # Data files
+│   ├── training_data.csv          # Provided training set (label, headline)
+│   ├── testing_data.csv           # Provided test set (labels=2, to be predicted)
+│   └── testing_predictions.csv    # Model predictions output
+│
+├── project_truth_miner.ipynb      # Main Jupyter notebook (EDA, ML, DistilBERT fine-tuning)
+│
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project documentation
+└── LICENSE                        # License file
+
+
